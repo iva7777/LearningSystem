@@ -52,3 +52,4 @@ C:\Users\АЗ\Documents\GitHub\LearningSystem\LearningSystem\obj\Debug\netcoreap
 C:\Users\АЗ\Documents\GitHub\LearningSystem\LearningSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\АЗ\Documents\GitHub\LearningSystem\LearningSystem\obj\Debug\netcoreapp2.1\LearningSystem.RazorTargetAssemblyInfo.cache
 C:\Users\АЗ\Documents\GitHub\LearningSystem\LearningSystem\obj\Debug\netcoreapp2.1\LearningSystem.RazorTargetAssemblyInfo.cs
+C:\Users\АЗ\Documents\GitHub\LearningSystem\LearningSystem\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
